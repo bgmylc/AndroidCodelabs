@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Begum Yolcu</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Begum.
+\n \nI love cats.
+\n \nThe kind that is alive and runs around.
+\nFun fact is that I have several cats.
+\nAnd sometimes I even go to vet.
+\nAnd even less sometimes, I actually help a cat.
+\n\nI\'ll be happy to teach you how to look after your own cat.
+\nYou should ask someone else about being veterinarian, though.\n\n
+        \n \nI also like dogs
+\nBut I am allergic to dogs.
+\nSo, I should get an allergy shot to own a dog.
+        \n I would like to have a Husky or a Golden Retriever.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
