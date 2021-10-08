@@ -1,0 +1,2 @@
+/Users/begumyolcu/AndroidStudioProjects/AndroidPathways/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/java/com/example/android/dessertclicker/MainActivity.kt
+/Users/begumyolcu/AndroidStudioProjects/AndroidPathways/android-basics-kotlin-dessert-clicker-app-starter/app/src/main/java/com/example/android/dessertclicker/ClickerApplication.kt
